@@ -4,3 +4,4 @@ user/migrations
 media
 
 .idea
+.postgres
